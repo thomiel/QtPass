@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "QtPass for Teams"
-#define MyAppVersion "1.3.3"
+#define MyAppVersion "1.3.3.1"
 #define MyAppPublisher "Thomas Mielke"
 #define MyAppURL "https://qtpass.org/"
 #define MyAppExeName "qtpass.exe"
